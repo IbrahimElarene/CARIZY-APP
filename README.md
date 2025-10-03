@@ -1,16 +1,24 @@
-# cartzy_app
+# 👕 E-Commerce Clothing App  
 
-A new Flutter project.
+An **E-commerce mobile application** built with **Flutter**, using **REST API** for fetching data, **Cubit (Bloc)** for state management, and **Hive** for local storage.  
+The app provides a smooth experience to browse clothing items, view product details, and manage favorites.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots  
+![Uploading 451shots_so.png…]()
 
-A few resources to get you started if this is your first Flutter project:
+### 🏠 Home Screen
+![Home Screen](path-to-home-image.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ❤️ Favorites Screen
+![Favorites Screen](path-to-favorites-image.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎥 Demo Video
+[Click here to watch the demo](path-to-demo-video.mp4)
+
+---
+
+## 📂 Project Structure
