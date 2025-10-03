@@ -11,7 +11,7 @@ The app provides a smooth experience to browse clothing items, view product deta
 ---
 
 ## 🎥 Demo Video  
-[![Watch the video](assets/image/demo-preview.png)](https://www.youtube.com/watch?v=XXXXXXXX)
+[![Watch the video](https://github.com/IbrahimElarene/CARIZY-APP/blob/master/assets/image/video2307089458-ezgif.com-optimize.gif)
 
 ---
 
