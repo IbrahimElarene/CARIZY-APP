@@ -6,10 +6,12 @@ The app provides a smooth experience to browse clothing items, view product deta
 ---
 
 ## 📸 Screenshots  
-(assets/image/451shots_so.png)
+![App Screenshot](assets/image/451shots_so.png)
 
-## 🎥 Demo Video
-[Click here to watch the demo](path-to-demo-video.mp4)
+---
+
+## 🎥 Demo Video  
+[![Watch the video](assets/image/demo-preview.png)](https://www.youtube.com/watch?v=XXXXXXXX)
 
 ---
 
