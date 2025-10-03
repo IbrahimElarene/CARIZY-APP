@@ -16,5 +16,5 @@ The app provides a smooth experience to browse clothing items, view product deta
 ---
 
 ## 📂 Project Structure  
-![Project Structure](assets/image/project_structure.png)
+![Project Structure](https://github.com/IbrahimElarene/CARIZY-APP/blob/master/assets/image/project%20_structure.png)
 
