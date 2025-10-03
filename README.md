@@ -16,4 +16,5 @@ The app provides a smooth experience to browse clothing items, view product deta
 ---
 
 ## 📂 Project Structure  
-![Project Structure](assets/image/Project _Structure.png)
+![Project Structure](assets/image/project_structure.png)
+
